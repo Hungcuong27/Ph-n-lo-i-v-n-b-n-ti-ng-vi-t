@@ -1,2 +1,2 @@
 
-Phân loại văn bản tiếng viêtk
+Phân loại văn bản tiếng việt
